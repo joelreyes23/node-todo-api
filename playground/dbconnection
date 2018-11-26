@@ -1,0 +1,2 @@
+spaceghost@spaceghost:~$ cd mongo/bin
+spaceghost@spaceghost:~/mongo/bin$ ./mongod --dbpath ~/mongo-data
